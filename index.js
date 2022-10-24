@@ -21,7 +21,7 @@ Return
 "Double Bogey"
 "Go Home!"
 
-par and strokes will always be numeric and positive. We have added an array of all the names for your convenience.*/
+par and strokes will always be numeric and positive.*/
 
 //(Using Multiple Conditional (Ternary) Operators)
 
